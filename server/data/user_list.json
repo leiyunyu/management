@@ -1,0 +1,30 @@
+{
+    "table_name": "账号注册",
+    "list": [
+        {
+            "username": "user",
+            "password": "456",
+            "authorization": "master"
+        },
+        {
+            "username": "marry ",
+            "password": "789",
+            "authorization": "master"
+        },
+        {
+            "username": "as",
+            "password": "as",
+            "authorization": "visitor"
+        },
+        {
+            "username": "admin",
+            "password": "",
+            "authorization": "visitor"
+        },
+        {
+            "username": "admin",
+            "password": "123",
+            "authorization": "visitor"
+        }
+    ]
+}
